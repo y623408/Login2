@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592142238477",
+    "project_id": "login-be1ce",
+    "storage_bucket": "login-be1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592142238477:android:94e5700dfc75e9e259a644",
+        "android_client_info": {
+          "package_name": "com.ananya.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592142238477-bft26k4j5pplnbnr4beonvr0v8jbc3eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWwr4whleXa2uTv_i01NFO2FHkOPHPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592142238477-bft26k4j5pplnbnr4beonvr0v8jbc3eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
